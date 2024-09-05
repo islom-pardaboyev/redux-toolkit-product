@@ -1,0 +1,1 @@
+export const REQUEST = import.meta.env.VITE_API
